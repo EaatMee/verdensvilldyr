@@ -1,6 +1,3 @@
-#verdensvilldyr
-#verdensvilldyr
-#verdensvilldyr
 
 <!DOCTYPE html>
 <html>
