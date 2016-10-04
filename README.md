@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title><title>
+	<title>VERDENSVILLDYR<title>
 	<meta charset="utf-8" />
 
 </head>
