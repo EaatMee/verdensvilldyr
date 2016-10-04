@@ -21,7 +21,7 @@
     <a href="#">Kontakt Oss</a>
   </div>
 </div>
-
+<p>dyr er gøy</p>
 <header>
 <span style="font-size: 30px; cursor: pointer; color: black;" onclick="openNav()">&#9776; </span>
 </header>
