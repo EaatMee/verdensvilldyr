@@ -24,6 +24,31 @@ img#ForAmur{
     height: 50%;
     width: 50%; 
 }
+
+img#ForUtryd{
+    height: 100%;
+    width: 100%; 
+}
+
+img#ForForest{
+    height: 60%;
+    width: 60%; 
+}
+
+img#ForEnergi{
+    height: 70%;
+    width: 70%; 
+}
+
+img#ForKlima{
+    height: 90%;
+    width: 90%; 
+}
+
+img#ForHav{
+    height: 100%;
+    width: 100%; 
+}
     
 .knapp:hover {
     background-color: #C66E00;
