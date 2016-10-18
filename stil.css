@@ -70,6 +70,20 @@ img#banner {
     margin-left: 0px;
 }
 
+img#face{
+    height: 5%;
+    width: 5%; 
+}
+
+img#twit{
+    height: 5%;
+    width: 5%; 
+}
+img#insta{
+    height: 5%;
+    width: 5%; 
+}
+
 .overlay {
     height: 0%;
     width: 100%;
