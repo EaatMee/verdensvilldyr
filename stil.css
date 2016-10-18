@@ -17,6 +17,11 @@ header {
     cursor: pointer;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
+}
+    
+.knapp:hover {
+    background-color: #C66E00;
+}
 
 img#banner {
     position: static;
