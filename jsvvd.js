@@ -11,6 +11,9 @@ window.onload = oppstart;
     document.getElementById("ForEnergi").onclick = energi;
     document.getElementById("ForKlima").onclick = klima;
     document.getElementById("ForHav").onclick = hav;
+    document.getElementById("face").onclick = face;
+    document.getElementById("twit").onclick = twit;
+    document.getElementById("insta").onclick = insta;
     
   }
 
