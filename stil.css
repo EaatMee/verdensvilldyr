@@ -17,6 +17,7 @@ header {
     cursor: pointer;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
+    padding: 14px 40px;
 }
     
 .knapp:hover {
