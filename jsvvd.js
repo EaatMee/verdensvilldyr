@@ -9,7 +9,7 @@ window.onload = oppstart;
   }
 
   function banner() {
-    openNav()
+    window.location.href = "index.html"
   }
 
   function openNav() {
