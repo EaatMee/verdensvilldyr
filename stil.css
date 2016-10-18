@@ -1,5 +1,7 @@
-span#btn {
+header {
     text-align: right;
+    background-color: #FF8F00;
+    padding: 0.5em;
 }
 
 img#banner {
