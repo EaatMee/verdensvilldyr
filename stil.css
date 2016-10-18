@@ -19,6 +19,11 @@ header {
     transition-duration: 0.4s;
     padding: 17px 50px;
 }
+
+img#ForAmur{
+    height: 50%;
+    width: 50%; 
+}
     
 .knapp:hover {
     background-color: #C66E00;
