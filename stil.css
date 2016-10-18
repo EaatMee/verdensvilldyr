@@ -1,3 +1,7 @@
+span#btn {
+    text-align: right;
+}
+
 img#banner {
     position: static;
     top: 50%;
