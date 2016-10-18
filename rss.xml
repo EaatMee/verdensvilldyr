@@ -1,1 +1,17 @@
 
+<?xml version ="1.0" encoding="UTF-8"?>
+<rss version ="2.0">
+  <channel>
+  <title>Verdens villdyr</title>
+  <link>index.html</link>
+  <description>Dette er en nettside om utrydningstrudere dyr. Her finner du informasjon om både dyr og natur.</description>
+  <language>no</language>
+  <pubDate>Tue, 18 Oct 2016 12:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 18 Oct 2016 19:38:00 GMT</lastBuildDate>
+      <item>
+        <title>Ny artikkel</title>
+        <link>klima.html</link>
+        <description>Ny artikkel om klima, og vi jobber med å bekjempe klimaendringene som livsgrunnlag er truet av.</description>
+      </item>
+  </channel>
+</rss>
