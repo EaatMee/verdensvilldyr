@@ -4,6 +4,12 @@ header {
     padding: 0.5em;
 }
 
+footer {
+    text-align: center;
+    background-color: #e8470c;
+    padding: 0.3em;
+}
+
 .knapp {
     background-color: #FFBA64;
     border: none;
