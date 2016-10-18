@@ -1,25 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>VerdensVilldyr</title>
-		<meta charset="UTF-8"/>
-    			<link rel="stylesheet" type="text/css" href="stil.css">
+	<meta charset="utf-8" />
+	<link href="stil.css" rel="stylesheet" type="text/css">
+	<link href="rss.xml" type="application/rss+xml" rel="alternate" title="Min RSS Feed" />
+	
+	<script src="jsvvd.js"> </script>
 
 </head>
  <body>
 	<header>
-	<h1>Verdens Villdyr</h1>
-	<img src="verdensbilldyrbanner.png" alt="Logo">
-	<nav>
-	<ul>
- 	 	<li><a href="omoss.html">Om oss</a></li>
- 	 	<li><a href="forbarn.html">For barn</a></li>
- 	 	<li><a href="kontaktoss.html">Kontakt oss</a></li>
-	</ul>
-	</nav>
-		
+	<button id="omOss" class="knapp" type="button">Om Oss</button>
+	<button id="forBarn" class="knapp" type="button">For barn</button>
+	<button id="kontaktOss" class="knapp" type="button">Kontakt oss</button>
 	</header>
-	 
+
+	 <img id="banner" src="banner.png" onmouseover="this.src='bannerHover.png'" onmouseout="this.src='banner.png'" alt="Banner." >
 	 <article>
 		 <h3>Natur</h3>
 		 <p>Norsk natur er unik. Fra trange fjordarmer til 2000 meter høye topper, fra varmekjær edelløvskog til iskald tundra – her finnes variert natur og et stort mangfold av arter og naturtyper.</p>
