@@ -1,3 +1,4 @@
+@media	only	screen	and	(min-width	:	768px)	{    
     body{
         background: rgba(255, 179, 0, .5)
     }
@@ -165,8 +166,23 @@
         right: 45px;
         font-size: 60px;
     }
+}
 
-@media	only	screen	and	(max-width	:	480px)	{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media	only	screen	and	(min-width	:	480px)	{
     div#btn{
         display: none;
     }
