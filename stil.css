@@ -30,6 +30,10 @@
         display: none;
     }
 
+    div#logo{
+        display: none;
+    }
+
     .knapp {
         background-color: #FFBA64;
         border: none;
@@ -220,6 +224,10 @@
         height:90%;
         display: block;
         margin: 0 auto;
+    }
+    
+    div#logo{
+        display: block;
     }
 
  }
