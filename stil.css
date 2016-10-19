@@ -168,6 +168,43 @@ img#insta{
     .images{
         text-align:center;
 }
+    img#ForAmur{
+    height: 30%;
+    width: 30%; 
+    
+}
+
+    img#ForUtryd{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForForest{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForEnergi{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForKlima{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForHav{
+        height: 90%;
+        width: 90%; 
+    }
+    
+    video {
+        width=20%;
+        height=20%;
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 @media only screen and(max-width : 768px) {
