@@ -26,6 +26,11 @@ div#btn{
     width: 100%;
 }
 
+div#meny{
+    height: 0%;
+    width: 0%;
+}
+
 .knapp {
     background-color: #FFBA64;
     border: none;
