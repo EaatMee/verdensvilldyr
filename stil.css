@@ -152,7 +152,7 @@ img#insta{
     
     .imgTop{
         display: inline-block;
-        margin-left: auto;
+        margin-left: none;
         margin-right: none;
         height: 30px; 
 }
