@@ -149,6 +149,17 @@ img#insta{
 }
 
 @media only screen and (min-width : 480px) {
+    
+    .imgTop{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: none;
+        height: 30px; 
+}
+
+    .images{
+        text-align:center;
+}
 }
 
 @media only screen and(min-width : 768px) {
