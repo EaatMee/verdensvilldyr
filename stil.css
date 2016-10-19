@@ -165,5 +165,35 @@
         float: right;
         display: block;
     }
+    
+    img#ForAmur{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForUtryd{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForForest{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForEnergi{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForKlima{
+        height: 90%;
+        width: 90%; 
+    }
+
+    img#ForHav{
+        height: 90%;
+        width: 90%; 
+    }
  }
 
