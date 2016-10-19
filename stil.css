@@ -236,7 +236,19 @@ img#insta{
 @media only screen and(max-width : 768px) {
     
     .knapp{
-    padding: 10px 15px;
+        background-color: #FFBA64;
+        border: none;
+        color: white;
+        padding: 10px 22px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s;
+        transition-duration: 0.4s;
+        padding: 17px 50px;
     }
 }
 
