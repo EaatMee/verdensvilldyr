@@ -46,15 +46,15 @@ function hav() {
   }
 
 function face() {
-    window.location.url = "http://ask.hiof.no/~michaeal/imgs/ressurser/katt.jpg"
+    window.location.href = "http://ask.hiof.no/~michaeal/imgs/ressurser/katt.jpg"
   }
 
 function twit() {
-    window.location.url = "http://www.koalastothemax.com/"
+    window.location.href = "http://www.koalastothemax.com/"
   }
 
 function insta() {
-    window.location.url = "http://www.sanger.dk/"
+    window.location.href = "http://www.sanger.dk/"
   }
 
   function openNav() {
