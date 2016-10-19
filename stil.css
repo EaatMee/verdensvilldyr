@@ -31,7 +31,11 @@
     }
 
     div#logo{
+        height: 10%;
+        width: 10%;
         display: none;
+        margin: 0 auto;
+        
     }
 
     .knapp {
