@@ -228,6 +228,8 @@
     
     div#logo{
         display: block;
+        height: 10%;
+        width: 10%;
     }
 
  }
