@@ -26,6 +26,10 @@ footer {
     padding: 17px 50px;
 }
 
+.imgContainer{
+    float:left;
+}
+
 img#ForAmur{
     height: 30%;
     width: 30%; 
