@@ -221,6 +221,7 @@ img#insta{
         float: right;
         display: block;
         position: relative;
+        padding-top:5px;
 }
     
     header {
