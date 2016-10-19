@@ -29,6 +29,7 @@ footer {
 img#ForAmur{
     height: 30%;
     width: 30%; 
+    float: center;
 }
 
 img#ForUtryd{
