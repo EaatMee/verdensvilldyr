@@ -221,14 +221,14 @@ img#insta{
         float: right;
         display: block;
         position: fixed;
-        top: 5px;
-        right: 5px;
+        top: 2%;
+        right: 2%;
 }
     
     header {
     text-align: center;
     background-color: #FF8F00;
-    padding: 2.5em;
+    padding: 1em;
 }
     
 }
