@@ -214,18 +214,18 @@ img#insta{
     }
     
     div#btn{
-    display: none;
+        display: none;
 }
 
-div#meny{
-    float: right;
-    display: block;
+    div#meny{
+        float: right;
+        display: block;
 }
     
     header {
     text-align: center;
     background-color: #FF8F00;
-    padding: 2em;
+    padding: 2.5em;
 }
     
 }
