@@ -227,9 +227,10 @@
     }
     
     div#logo{
-        display: block;
         height: 10%;
         width: 10%;
+        display: block;
+        margin: 0 auto;
     }
 
  }
