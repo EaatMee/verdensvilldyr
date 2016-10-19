@@ -149,15 +149,18 @@ img#insta{
 }
 
 @media only screen and (max-width : 480px) {
+}
+
+@media only screen and(max-width : 768px) {
     
     img#banner {
-    position: static;
-    top: 0%;
-    left: 0%;
-    height: 0%;
-    width: 0%;
-    margin-top: 0px;
-    margin-left: 0px;
+     position: static;
+     top: 0%;
+     left: 0%;
+     height: 0%;
+     width: 0%;
+     margin-top: 0px;
+     margin-left: 0px;
 }
     
     .imgTop{
@@ -171,9 +174,7 @@ img#insta{
         text-align:center;
 }
 }
-
-@media only screen and(min-width : 768px) {
 }
 
-@media only screen and(min-width : 992px) {
+@media only screen and(max-width : 992px) {
 }
