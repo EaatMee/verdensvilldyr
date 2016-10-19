@@ -158,27 +158,27 @@ img#insta{
 
 @media only screen and (max-width : 480px) {
     
-        img#banner {
-     position: static;
-     top: 0%;
-     left: 0%;
-     height: 0%;
-     width: 0%;
-     margin-top: 0px;
-     margin-left: 0px;
-}
+    img#banner {
+         position: static;
+         top: 0%;
+         left: 0%;
+         height: 0%;
+         width: 0%;
+         margin-top: 0px;
+         margin-left: 0px;
+    }
     
     .imgTop{
         display: block;
         height: 10px; 
-}
+    }
 
     .images{
         text-align:center;
-}
+    }
     img#ForAmur{
-    height: 90%;
-    width: 90%; 
+        height: 90%;
+        width: 90%; 
     }
 
     img#ForUtryd{
@@ -215,7 +215,7 @@ img#insta{
     
     div#btn{
         display: none;
-}
+    }
 
     div#meny{
         float: right;
@@ -223,17 +223,21 @@ img#insta{
         position: fixed;
         top: 2%;
         right: 2%;
-}
+    }
     
     header {
-    text-align: center;
-    background-color: #FF8F00;
-    padding: 2em;
-}
+        text-align: center;
+        background-color: #FF8F00;
+        padding: 2em;
+    }
     
 }
 
 @media only screen and(max-width : 768px) {
+    
+    .knapp{
+    padding: 10px 15px;
+    }
 }
 
 @media only screen and(max-width : 992px) {
