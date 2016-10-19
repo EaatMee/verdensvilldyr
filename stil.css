@@ -164,6 +164,9 @@
     div#meny{
         float: right;
         display: block;
+        position: fixed;
+        top: 2%;
+        right: 2%;
     }
     
     img#ForAmur{
@@ -194,6 +197,12 @@
     img#ForHav{
         height: 90%;
         width: 90%; 
+    }
+    
+    footer {
+        text-align: center;
+        background-color: #e8470c;
+        padding: 2em;
     }
  }
 
