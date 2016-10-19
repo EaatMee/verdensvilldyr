@@ -214,6 +214,13 @@
         margin-top: 0px;
         margin-left: 0px;
     }
+    
+    video {
+        width:90%;
+        height:90%;
+        display: block;
+        margin: 0 auto;
+    }
 
  }
 
