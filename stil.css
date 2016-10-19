@@ -22,13 +22,12 @@ video {
 }
 
 div#btn{
-    height: 100%;
-    width: 100%;
+    display: block;
 }
 
 div#meny{
-    height: 0%;
-    width: 0%;
+    float: right;
+    display: none;
 }
 
 .knapp {
@@ -213,6 +212,16 @@ img#insta{
         display: block;
         margin: 0 auto;
     }
+    
+    div#btn{
+    display: none;
+}
+
+div#meny{
+    float: right;
+    display: block;
+}
+    
 }
 
 @media only screen and(max-width : 768px) {
