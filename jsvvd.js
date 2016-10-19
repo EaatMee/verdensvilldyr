@@ -26,7 +26,7 @@ function amur() {
   }
 
 function utryd() {
-    window.location.href = "index.html"
+    window.location.href = "dyr.html"
   }
 
 function natur() {
@@ -43,6 +43,18 @@ function klima() {
 
 function hav() {
     window.location.href = "havogkyst.html"
+  }
+
+function face() {
+    window.location.url = "http://ask.hiof.no/~michaeal/imgs/ressurser/katt.jpg"
+  }
+
+function twit() {
+    window.location.url = "http://www.koalastothemax.com/"
+  }
+
+function insta() {
+    window.location.url = "http://www.sanger.dk/"
   }
 
   function openNav() {
