@@ -1,159 +1,161 @@
-body{
-    background: rgba(255, 179, 0, .5)
-}
+@media	only	screen	and	(min-width	:	992px)	{
+    body{
+        background: rgba(255, 179, 0, .5)
+    }
 
-header {
-    text-align: center;
-    background-color: #FF8F00;
-    padding: 0.5em;
-}
+    header {
+        text-align: center;
+        background-color: #FF8F00;
+        padding: 0.5em;
+    }
 
-footer {
-    text-align: center;
-    background-color: #e8470c;
-    padding: 0.1em;
-}
+    footer {
+        text-align: center;
+        background-color: #e8470c;
+        padding: 0.1em;
+    }
 
-video {
-    width:60%;
-    height:60%;
-    display: block;
-    margin: 0 auto;
-}
+    video {
+        width:60%;
+        height:60%;
+        display: block;
+        margin: 0 auto;
+    }
 
-div#btn{
-    display: block;
-}
+    div#btn{
+        display: block;
+    }
 
-div#meny{
-    float: right;
-    display: none;
-}
+    div#meny{
+        float: right;
+        display: none;
+    }
 
-.knapp {
-    background-color: #FFBA64;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    -webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
-    padding: 17px 50px;
-}
+    .knapp {
+        background-color: #FFBA64;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s;
+        transition-duration: 0.4s;
+        padding: 17px 50px;
+    }
 
-.imgTop{
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 30px; 
-}
+    .imgTop{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 30px; 
+    }
 
-.images{
-    text-align:center;
-}
+    .images{
+        text-align:center;
+    }
 
-img#ForAmur{
-    height: 30%;
-    width: 30%; 
-}
+    img#ForAmur{
+        height: 30%;
+        width: 30%; 
+    }
 
-img#ForUtryd{
-    height: 30%;
-    width: 30%; 
-}
+    img#ForUtryd{
+        height: 30%;
+        width: 30%; 
+    }
 
-img#ForForest{
-    height: 30%;
-    width: 30%; 
-}
+    img#ForForest{
+        height: 30%;
+        width: 30%; 
+    }
 
-img#ForEnergi{
-    height: 30%;
-    width: 30%; 
-}
+    img#ForEnergi{
+        height: 30%;
+        width: 30%; 
+    }
 
-img#ForKlima{
-    height: 30%;
-    width: 30%; 
-}
+    img#ForKlima{
+        height: 30%;
+        width: 30%; 
+    }
 
-img#ForHav{
-    height: 30%;
-    width: 30%; 
-}
-    
-.knapp:hover {
-    background-color: #C66E00;
-}
+    img#ForHav{
+        height: 30%;
+        width: 30%; 
+    }
 
-img#banner {
-    position: static;
-    top: 50%;
-    left: 20%;
-    height: 100%;
-    width: 100%;
-    margin-top: 0px;
-    margin-left: 0px;
-}
+    .knapp:hover {
+        background-color: #C66E00;
+    }
 
-img#face{
-    height: 5%;
-    width: 5%; 
-}
+    img#banner {
+        position: static;
+        top: 50%;
+        left: 20%;
+        height: 100%;
+        width: 100%;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
 
-img#twit{
-    height: 5%;
-    width: 5%; 
-}
-img#insta{
-    height: 5%;
-    width: 5%; 
-}
+    img#face{
+        height: 5%;
+        width: 5%; 
+    }
 
-.overlay {
-    height: 0%;
-    width: 100%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0, 0.9);
-    overflow-y: hidden;
-    transition: 0.5s;
-}
+    img#twit{
+        height: 5%;
+        width: 5%; 
+    }
+    img#insta{
+        height: 5%;
+        width: 5%; 
+    }
 
-.overlay-content {
-    position: relative;
-    top: 25%;
-    width: 100%;
-    text-align: center;
-    margin-top: 30px;
-}
+    .overlay {
+        height: 0%;
+        width: 100%;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: rgb(0,0,0);
+        background-color: rgba(0,0,0, 0.9);
+        overflow-y: hidden;
+        transition: 0.5s;
+    }
 
-.overlay a {
-    padding: 8px;
-    text-decoration: none;
-    font-size: 36px;
-    color: #818181;
-    display: block;
-    transition: 0.3s;
-}
+    .overlay-content {
+        position: relative;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
 
-.overlay a:hover, .overlay a:focus {
-    color: #f1f1f1;
-}
+    .overlay a {
+        padding: 8px;
+        text-decoration: none;
+        font-size: 36px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+    }
 
-.overlay .closebtn {
-    position: absolute;
-    top: 20px;
-    right: 45px;
-    font-size: 60px;
+    .overlay a:hover, .overlay a:focus {
+        color: #f1f1f1;
+    }
+
+    .overlay .closebtn {
+        position: absolute;
+        top: 20px;
+        right: 45px;
+        font-size: 60px;
+    }
 }
 
 @media only screen and (max-width : 480px) {
