@@ -11,9 +11,25 @@
 </head>
  <body>
 	<header>
-	<button id="omOss" class="knapp" type="button">Om Oss</button>
-	<button id="forBarn" class="knapp" type="button">For barn</button>
-	<button id="kontaktOss" class="knapp" type="button">Kontakt oss</button>
+		<div id="myNav" class="overlay">
+		  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+		  <link href="verdensvilldyr.css" rel="stylesheet" type="text/css">
+		  <div class="overlay-content">
+		    <a href="omoss.html">Om Oss</a>
+		    <a href="forbarn.html">For Barn</a>
+		    <a href="kontaktoss.html">Kontakt Oss</a>
+		  </div>
+		</div>
+
+		<div id="meny">
+			<span style="font-size: 30px; cursor: pointer; color: black;" onclick="openNav()">&#9776; </span>
+		</div>
+		
+		<div id="btn">
+			<button id="omOss" class="knapp" type="button">Om Oss</button>
+			<button id="forBarn" class="knapp" type="button">For barn</button>
+			<button id="kontaktOss" class="knapp" type="button">Kontakt oss</button>
+		</div>
 	</header> <br />
 
 	 <img id="banner" src="banner.png" onmouseover="this.src='bannerHover.png'" onmouseout="this.src='banner.png'" alt="Banner." >
