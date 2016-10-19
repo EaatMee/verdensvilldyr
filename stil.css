@@ -233,10 +233,10 @@ img#insta{
     
 }
 
-@media only screen and(min-width : 768px) {
+@media only screen and(min-width : 500px) {
    
     body{
-        background: rgba(0, 255, 0, .5)
+        background: rgba(0, 255, 0, 1)
     }   
 }
 
