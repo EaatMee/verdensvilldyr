@@ -156,4 +156,14 @@
         font-size: 60px;
     }
 
+@media	only	screen	and	(max-width	:	480px)	{
+    div#btn{
+        display: none;
+    }
+
+    div#meny{
+        float: right;
+        display: block;
+    }
+ }
 
