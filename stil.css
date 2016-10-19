@@ -1,6 +1,5 @@
 body{
-    background-color: #FFB300;
-    opacity: 0.2;
+    background: rgba(255, 179, 0, .5)
 }
 
 header {
