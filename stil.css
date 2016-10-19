@@ -1,3 +1,7 @@
+body{
+    background-color: #FFB300;
+}
+
 header {
     text-align: center;
     background-color: #FF8F00;
@@ -150,5 +154,5 @@ img#insta{
 @media only screen and(min-width : 768px) {
 }
 
-@media only screen and(min width : 992px) {
+@media only screen and(min-width : 992px) {
 }
