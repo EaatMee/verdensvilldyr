@@ -51,7 +51,6 @@ video {
 img#ForAmur{
     height: 30%;
     width: 30%; 
-    
 }
 
 img#ForUtryd{
@@ -169,10 +168,9 @@ img#insta{
         text-align:center;
 }
     img#ForAmur{
-    height: 30%;
-    width: 30%; 
-    
-}
+    height: 90%;
+    width: 90%; 
+    }
 
     img#ForUtryd{
         height: 90%;
