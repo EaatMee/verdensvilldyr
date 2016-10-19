@@ -10,6 +10,11 @@ footer {
     padding: 0.1em;
 }
 
+video {
+    display: block;
+    margin: 0;
+}
+
 .knapp {
     background-color: #FFBA64;
     border: none;
